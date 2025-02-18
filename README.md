@@ -27,7 +27,7 @@
 
 Установил имя машины user-1, использовав команду ```sudo hostmanectl set-hostname user-1``` после убедился, что имя изменилось!
 
-[Alt text](src/screenshots/user-1.png)
+![Alt text](src/screenshots/user-1.png)
 
 Установил часовой пояс, в котором я нахожусь командой ```sudo timedatectl set-timezone Europe/Moscow```. И проверил, вступили ли в силу изменения
 
